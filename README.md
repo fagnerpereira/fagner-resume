@@ -35,12 +35,12 @@ I'm a passionate Ruby on Rails developer who loves building modern, reactive web
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=fagnerpereira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerpereira&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagnerpereira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🔗 Connect With Me
@@ -56,7 +56,7 @@ I'm a passionate Ruby on Rails developer who loves building modern, reactive web
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=fagnerpereira&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 <div align="center">
@@ -100,7 +100,7 @@ I'm a passionate Ruby on Rails developer who loves building modern, reactive web
 
 *"Rails is omakase" - DHH* 🍣
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=red&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=fagnerpereira&color=red&style=for-the-badge)
 
 </div>
 
