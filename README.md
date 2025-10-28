@@ -9,8 +9,8 @@ I'm a passionate Ruby on Rails developer who loves building modern, reactive web
 
 - 🔥 **Currently working with:** Ruby on Rails, Hotwire, Stimulus, Turbo
 - 🎯 **Love building:** Real-time, reactive applications without heavy JavaScript frameworks
-- 🌱 **Always learning:** Currently exploring advanced Hotwire patterns and Elixir
-- ⚡ **Previously worked with:** React, AWS, Elixir
+- 🌱 **Always learning:** Currently exploring advanced Hotwire patterns, Elixir, AWS, Azure
+- ⚡ **Previously worked with:** React, VueJS, AWS, Elixir
 
 ## 💻 Tech Stack
 
