@@ -9,8 +9,10 @@ I'm a passionate Ruby on Rails developer who loves building modern, reactive web
 
 - 🔥 **Currently working with:** Ruby on Rails, Hotwire, Stimulus, Turbo
 - 🎯 **Love building:** Real-time, reactive applications without heavy JavaScript frameworks
-- 🌱 **Always learning:** Currently exploring advanced Hotwire patterns, Elixir, AWS, Azure
-- ⚡ **Previously worked with:** React, VueJS, AWS, Elixir
+- 🌱 **Always learning:** Currently exploring advanced Hotwire patterns, AWS, Azure (currently preparing for certification)
+- ⚡ **Previously worked with:** With stacks considered new for me: React, VueJS, Elixir. The learning curve was easier then I expected.
+- At this moment studying: AWS, Azure, Docker, Kubernetes, because my last job I worked with a Product that provide services like historical data expensives, offering optimizations as main feature.
+So I got interested in learning more about DevOps and Cloud.
 
 ## 💻 Tech Stack
 
@@ -18,23 +20,23 @@ I'm a passionate Ruby on Rails developer who loves building modern, reactive web
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://docs.ruby-lang.org/en/3.4/)
 [![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://elixir-lang.org/)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 ### Frontend & Hotwire
-![Hotwire](https://img.shields.io/badge/Hotwire-FF6347?style=for-the-badge&logo=hotwire&logoColor=white)
-![Stimulus](https://img.shields.io/badge/Stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=black)
-![Turbo](https://img.shields.io/badge/Turbo-5CD8E5?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ViewComponent](https://img.shields.io/badge/ViewComponent-CC0000?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Hotwire](https://img.shields.io/badge/Hotwire-FF6347?style=for-the-badge&logo=hotwire&logoColor=white)](https://hotwired.dev/)
+[![Stimulus](https://img.shields.io/badge/Stimulus-77E8B9?style=for-the-badge&logo=stimulus&logoColor=black)](https://stimulus.hotwired.dev/)
+[![Turbo](https://img.shields.io/badge/Turbo-5CD8E5?style=for-the-badge)](https://turbo.hotwired.dev/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ViewComponent](https://img.shields.io/badge/ViewComponent-CC0000?style=for-the-badge)](https://viewcomponent.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
 ### DevOps & Tools
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=azure&logoColor=white)](https://azure.microsoft.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ## 📊 GitHub Stats
 
